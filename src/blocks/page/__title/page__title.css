@@ -1,0 +1,12 @@
+/* Page */
+.page__title {
+  margin: 0;
+  opacity: 0;
+
+  font-size: 24px;
+  color:#000;
+
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}

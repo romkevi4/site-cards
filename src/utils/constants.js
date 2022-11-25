@@ -1,2 +1,2 @@
-// =============================== Получение элементов DOM ===============================
-// Элементы
+// Элементы DOM
+export const slides = document.querySelectorAll('.page__slide');

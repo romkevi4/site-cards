@@ -1,4 +1,15 @@
 /* Root */
 .root {
-  /*background-color: #000;*/
+  margin: 0;
+  height: 100vh;
+
+  font-family: 'Muli', sans-serif;
+  overflow: hidden;
+
+  background-color: cornsilk ;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
 }
