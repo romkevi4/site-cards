@@ -1,0 +1,16 @@
+/* Page */
+.page__slide {
+  margin: 10px;
+  height: 80vh;
+
+  border-radius: 20px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+
+  cursor: pointer;
+  flex: 1;
+  position: relative;
+  transition: all 500ms ease-in-out;
+}
