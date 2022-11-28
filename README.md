@@ -7,7 +7,7 @@
 ### Clone repository:
 
 ```bash
-git clone git@github.com:irina-tim/todo-list.git
+git clone git@github.com:romkevi4/site-cards.git
 ```
 
 ### cd to project directory and run:
