@@ -3,7 +3,7 @@
   flex: 10;
 }
 
-.page__slide_active {
+.page__slide_active .page__title {
   opacity: 1;
   transition: opacity 0.3s ease-in 0.4s;
 }

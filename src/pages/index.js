@@ -1,5 +1,5 @@
 import { slides } from '../utils/constants.js';
-// import './index.css';
+import './index.css';
 
 for (const slide of slides) {
     slide.addEventListener('click', () => {

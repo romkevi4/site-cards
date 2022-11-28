@@ -3,10 +3,10 @@
   margin: 0;
   opacity: 0;
 
-  font-size: 24px;
-  color:#000;
+  font-size: 54px;
+  color: #101010;
 
   position: absolute;
-  left: 20px;
-  bottom: 20px;
+  left: 30px;
+  top: 50px;
 }
